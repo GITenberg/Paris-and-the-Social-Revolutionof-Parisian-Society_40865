@@ -1,0 +1,40 @@
+_repo: Paris-and-the-Social-Revolutionof-Parisian-Society_40865
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Trowbridge, Vaughan
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '40863'
+    url: http://www.gutenberg.org/2009/agents/40863
+covers:
+- cover_type: archival
+  image_path: 40865-h/images/cover.png
+creator:
+  author:
+    agent_name: Sanborn, Alvan F. (Alvan Francis)
+    alias: Sanborn, Alvan Francis
+    birthdate: 1866
+    deathdate: 1966
+    gutenberg_agent_id: '40862'
+    url: http://www.gutenberg.org/2009/agents/40862
+description: ''
+gutenberg_issued: '2012-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40865'
+  lccn: '05010041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Quartier latin (Paris, France)'
+- !lcsh 'Paris (France) -- Politics and government'
+- !lcsh 'Socialism -- France'
+- !lcsh 'Revolutions'
+- !lcsh 'Anarchism -- France'
+title: "Paris and the Social Revolution\r\nA Study of the Revolutionary Elements in\
+  \ the Various Classes of Parisian Society"
+url: http://www.gutenberg.org/ebooks/40865
